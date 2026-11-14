@@ -1,0 +1,32 @@
+[
+  {
+    "question": "When was the Aerospace Safety Advisory Panel established?",
+    "expected_pages": [12],
+    "expected_keywords": ["1968"]
+  },
+  {
+    "question": "What are the safety recommendations for spacecraft?",
+    "expected_pages": [31, 37],
+    "expected_keywords": ["recommend", "safety"]
+  },
+  {
+    "question": "What is the Design Reference Mission?",
+    "expected_pages": [31],
+    "expected_keywords": ["design reference mission"]
+  },
+  {
+    "question": "What issues affect the Artemis III schedule?",
+    "expected_pages": [29],
+    "expected_keywords": ["artemis"]
+  },
+  {
+    "question": "Who chairs the Aerospace Safety Advisory Panel?",
+    "expected_pages": [76],
+    "expected_keywords": ["chair"]
+  },
+  {
+    "question": "What is the recipe for chocolate cake?",
+    "expected_pages": [],
+    "expected_keywords": []
+  }
+]
